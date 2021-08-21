@@ -1,0 +1,84 @@
+,opponent,game_year,game_result,game_date,game_day_of_week,game_time,game_score
+0,Oklahoma State (Exhibition),2017,L,Aug 12 ,Sat, 6:30 p.m. CT, 1-0
+1,Illinois,2017,W,Aug 18 ,Fri, 7 p.m. CT, 3-1
+2,Iowa State,2017,W,Aug 20 ,Sun, 4 p.m. CT  SEC Network, 2-0
+3,Oregon State,2017,T,Aug 25 ,Fri, 5:30 p.m. PT  Pac-12 Networks, 0-0
+4,#14 Nebraska,2017,L,Aug 27 ,Sun, 6:30 p.m. CT  BTN Plus, 3-0
+5,#5 Southern California,2017,L,Sep 1 ,Fri, 6:30 p.m. CT  SEC Network +, 2-0
+6,TCU (RV),2017,L,Sep 3 ,Sun, 7 p.m. CT  Fox Sports Southwest, 2-1 (2OT)
+7,Northwestern,2017,L,Sep 7 ,Thu, 7 p.m. CT  BTN Plus, 2-1
+8,San Diego State,2017,W,Sep 10 ,Sun, 6:30 p.m. CT  SEC Network +, 2-1
+9,Georgia,2017,W,Sep 15 ,Fri, 6:30 p.m. CT  SEC Network +, 3-1
+10,Albany,2017,W,Sep 17 ,Sun, 6:30 p.m. CT  SEC Network +, 3-0
+11,Mississippi State,2017,L,Sep 21 ,Thu, 7 p.m. CT  SEC Network +, 3-1
+12,Texas A&M (RV),2017,L,Sep 24 ,Sun, 5 p.m. CT  ESPNU, 5-1
+13,Vanderbilt,2017,L,Sep 29 ,Fri, 6 p.m. CT  SEC Network +, 5-3
+14,#9 Florida,2017,L,Oct 5 ,Thu, 6 p.m. ET  SEC Network +, 2-1
+15,#21 Tennessee,2017,L,Oct 8 ,Sun, 1 p.m. CT  SEC Network +, 3-2 (OT)
+16,Kentucky,2017,W,Oct 12 ,Thu, 7 p.m. ET  SEC Network, 2-1
+17,#3 South Carolina,2017,L,Oct 19 ,Thu, 6:30 p.m. CT  SEC Network +, 2-0
+18,Alabama,2017,L,Oct 22 ,Sun, Noon CT  SEC Network +, 3-2 OT
+19,LSU,2017,W,Oct 26 ,Thu, 6:30 p.m. CT  SEC Network +, 2-0
+20,Alabama,2017,W,Oct 29 ,Sun, 1 p.m. CT  SEC Network, 3-1
+21,#11 Texas A&M,2017,L,Oct 31 ,Tue, Noon CT, 7-1
+22,Missouri State (Exhibition),2018,W,Aug 7 ,Tue, Noon CT, 6-0
+23,Oklahoma State (Exhibition),2018,W,Aug 10 ,Fri, 7 p.m. CT, 2-1
+24,Iowa,2018,T,Aug 17 ,Fri, 7 p.m. CT  BTN+, 0-0 (2OT)
+25,Iowa State,2018,W,Aug 19 ,Sun, 2 p.m. CT, 2-1 (2OT)
+26,Colorado,2018,L,Aug 25 ,Sat, 2 p.m. CT  Pac-12 Networks, 6-0
+27,#16 Northwestern,2018,L,Aug 30 ,Thu, 6:30 p.m. CT  SEC Network+, 1-0 (OT)
+28,TCU,2018,L,Sep 2 ,Sun, 6:30 p.m. CT  SEC Network+, 1-0 (OT)
+29,#4 Southern Cal,2018,L,Sep 7 ,Fri, 5 p.m. CT  Pac 12 Networks, 2-0
+30,Gonzaga,2018,W,Sep 9 ,Sun, 1 p.m. CT  SEC Network +, 2-0
+31,Kentucky,2018,W,Sep 13 ,Thu, 6 p.m. CT, 1-0
+32,Portland State,2018,W,Sep 16 ,Sun, Noon CT  SEC Network +, 2-1
+33,Georgia,2018,T,Sep 20 ,Thu, 6 p.m. CT  SEC Network +, 0-0 (2OT)
+34,Vanderbilt,2018,L,Sep 23 ,Sun, 1 p.m. CT  SEC Network +, 2-1
+35,Arkansas,2018,L,Sep 27 ,Thu, 6 p.m. CT, 1-0
+36,Ole Miss,2018,W,Oct 4 ,Thu, 6:30 p.m. CT  SEC Network +, 2-1
+37,LSU,2018,L,Oct 7 ,Sun, 1 p.m. CT  SEC Network +, 2-1
+38,Auburn,2018,L,Oct 14 ,Sun, 2 p.m. CT, 1-0
+39,#8 South Carolina,2018,L,Oct 18 ,Thu, 5:30 p.m. CT  SEC Network +, 1-0
+40,Florida,2018,W,Oct 21 ,Sun, Noon CT  SEC Network +, 2-0
+41,#12 Tennessee,2018,L,Oct 25 ,Thu, 6 p.m. CT  SEC Network +, 2-1 (OT)
+42,LSU,2018,L,Oct 28 ,Sun, 1 P.M. CT, 3-2 (2OT)
+43,Stanford (Exhibition),2019,L,Aug 11 ,Sun, 2 p.m. CT, 7-0
+44,Colorado State (Exhibition),2019,W,Aug 14 ,Wed, 11 a.m. CT, 3-1
+45,Southern Miss,2019,W,Aug 22 ,Thu, 7 p.m. CT, 1-0
+46,Ohio State (RV),2019,W,Aug 25 ,Sun, Noon CT  BTN2Go, 3-1
+47,Cincinnati,2019,W,Aug 29 ,Thu, 7 p.m. CT, 2-1
+48,Xavier,2019,W,Sep 1 ,Sun, 1 p.m. CT, 3-2 (2OT)
+49,Murray State,2019,W,Sep 5 ,Thu, 7 p.m. CT, 2-1
+50,Loyola Chicago,2019,L,Sep 8 ,Sun, 1 p.m. CT, 2-1
+51,Cal State Fullerton,2019,L,Sep 13 ,Fri, 7 p.m. CT, 3-2
+52,Northern Colorado,2019,W,Sep 15 ,Sun, 1 p.m. CT, 2-1 (OT)
+53,Ole Miss,2019,T,Sep 20 ,Fri, 7 p.m. CT, 1-1 (2OT)
+54,Florida,2019,L,Sep 26 ,Thu, 5:30 p.m. CT, 3-2
+55,Georgia,2019,L,Sep 29 ,Sun, 4 p.m. CT, 5-1
+56,No. 7 South Carolina,2019,L,Oct 4 ,Fri, 7 p.m. CT, 1-0
+57,Vanderbilt,2019,L,Oct 10 ,Thu, 7 p.m. CT, 2-1
+58,Tennessee,2019,W,Oct 13 ,Sun, 1 p.m. CT, 2-0
+59,Kentucky,2019,L,Oct 18 ,Fri, 6:30 p.m. CT, 2-1
+60,Alabama,2019,L,Oct 24 ,Thu, 7 p.m. CT, 2-1
+61,No. 22 Texas A&M,2019,L,Oct 27 ,Sun, 4 p.m. CT, 5-3
+62,Mississippi State,2019,L,Oct 31 ,Thu, 7:15 p.m. CT, 4-2
+63,South Carolina,2020,L,Sep 27 ,Sun, 3 p.m. CT, 4-1
+64,No. 13 Vanderbilt,2020,W,Oct 3 ,Sat, 5 p.m. CT, 2-1
+65,Tennessee,2020,L,Oct 9 ,Fri, 6 p.m. CT, 2-1
+66,LSU,2020,T,Oct 16 ,Fri, 7 p.m. CT, 1-1 (2OT)
+67,Mississippi State,2020,T,Oct 24 ,Sat, 6:30 p.m. CT, 1-1 (2OT)
+68,Kentucky,2020,W,Nov 1 ,Sun, Noon, 4-1
+69,Georgia,2020,Canceled,Nov 6 ,Fri, 6 p.m. CT,
+70,Florida,2020,W,Nov 8 ,Sun, 1 p.m. CT, 5-2
+71,Florida (Second Round),2020,W,Nov 15 ,Sun, 7:30 p.m. CT, 2-1
+72,No. 10  South Carolina (Quarterfinals),2020,L,Nov 17 ,Tue, 7:30 p.m. CT, 3-2
+73,Creighton,2020,W,Feb 25 ,Thu, 3 p.m. CT, 1-0
+74,No. 14 BYU,2020,L,Mar 3 ,Wed, 7 p.m. CT, 3-0
+75,Notre Dame,2020,L,Mar 20 ,Sat, 1 p.m. CT  ACCNX, 2-0
+76,Kansas State,2020,T,Mar 28 ,Sun, 1 p.m. CT, 3-3 (2OT)
+77,Notre Dame,2020,Canceled,Apr 2 ,Fri, 1 p.m. CT,
+78,Kansas,2020,Canceled,Apr 10 ,Sat, 1 p.m. CT,
+79,Kansas,2020,W,Apr 17 ,Sat, 7 p.m. CT, 1-0
+80,Sam Houston State (Exh.),2021,W,Aug 10 ,Tue, 7 PM, 4-1
+81,Oklahoma State (Exh.),2021,W,Aug 13 ,Fri, 10 AM, 1-0
+82,Illinois,2021,L,Aug 19 ,Thu, 7 PM, 4-0
