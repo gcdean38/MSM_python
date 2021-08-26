@@ -1,0 +1,92 @@
+﻿opponent,miz_set_score,opp_set_score,miz_sets,opp_sets,set_res,set_num,match_res
+Alabama,25,22,0,0,W,1,W
+Alabama,25,18,1,0,W,2,W
+Alabama,17,25,2,0,L,3,W
+Alabama,28,26,2,1,W,4,W
+Alabama,25,16,0,0,W,1,W
+Alabama,25,19,1,0,W,2,W
+Alabama,25,19,2,0,W,3,W
+Kentucky,25,23,0,0,W,1,L
+Kentucky,33,35,1,0,L,2,L
+Kentucky,20,25,1,1,L,3,L
+Kentucky,18,25,1,2,L,4,L
+Kentucky,25,19,0,0,W,1,L
+Kentucky,21,25,1,0,L,2,L
+Kentucky,13,25,1,1,L,3,L
+Kentucky,16,25,1,2,L,4,L
+Arkansas,25,13,0,0,W,1,W
+Arkansas,25,22,1,0,W,2,W
+Arkansas,21,25,2,0,L,3,W
+Arkansas,25,27,2,1,L,4,W
+Arkansas,15,6,2,2,W,5,W
+Arkansas,28,26,0,0,W,1,W
+Arkansas,25,19,1,0,W,2,W
+Arkansas,29,27,2,0,W,3,W
+Ole Miss,25,13,0,0,W,1,W
+Ole Miss,23,25,1,0,L,2,W
+Ole Miss,25,13,1,1,W,3,W
+Ole Miss,19,25,2,1,L,4,W
+Ole Miss,15,9,2,2,W,5,W
+Ole Miss,25,19,0,0,W,1,W
+Ole Miss,25,19,1,0,W,2,W
+Ole Miss,17,25,2,0,L,3,W
+Ole Miss,25,18,2,1,W,4,W
+LSU,23,25,0,0,L,1,W
+LSU,25,22,0,1,W,2,W
+LSU,25,18,1,1,W,3,W
+LSU,19,25,2,1,L,4,W
+LSU,15,9,2,2,W,5,W
+LSU,25,19,0,0,W,1,W
+LSU,23,25,1,0,L,2,W
+LSU,18,25,1,1,L,3,W
+LSU,25,19,1,2,W,4,W
+LSU,15,10,2,2,W,5,W
+Tenessee,25,27,0,0,L,1,L
+Tenessee,27,25,0,1,W,2,L
+Tenessee,25,18,1,1,W,3,L
+Tenessee,24,26,2,1,L,4,L
+Tenessee,11,15,2,2,L,5,L
+Tenessee,22,25,0,0,L,1,L
+Tenessee,17,25,0,1,L,2,L
+Tenessee,22,25,0,2,L,3,L
+Georgia,25,23,0,0,W,1,W
+Georgia,25,20,1,0,W,2,W
+Georgia,25,21,2,0,W,3,W
+Georgia,25,20,0,0,W,1,W
+Georgia,25,21,1,0,W,2,W
+Georgia,25,21,2,0,W,3,W
+South Carolina,25,17,0,0,W,1,W
+South Carolina,25,23,1,0,W,2,W
+South Carolina,25,15,2,0,W,3,W
+South Carolina,28,30,0,0,L,1,W
+South Carolina,25,20,0,1,W,2,W
+South Carolina,23,25,1,1,L,3,W
+South Carolina,18,25,1,2,L,4,W
+Florida,25,23,0,0,W,1,L
+Florida,25,23,1,0,W,2,L
+Florida,19,25,2,0,L,3,L
+Florida,25,27,2,1,L,4,L
+Florida,13,15,2,2,L,5,L
+Florida,10,25,0,0,L,1,L
+Florida,19,25,0,1,L,2,L
+Florida,18,25,0,2,L,3,L
+Texas A&M,25,14,0,0,W,1,W
+Texas A&M,25,14,1,0,W,2,W
+Texas A&M,25,19,2,0,W,3,W
+Texas A&M,22,25,0,0,L,1,W
+Texas A&M,25,19,0,1,W,2,W
+Texas A&M,25,17,1,1,W,3,W
+Texas A&M,22,25,2,1,L,4,W
+Texas A&M,15,11,2,2,W,5,W
+Mississippi St.,25,21,0,0,W,1,W
+Mississippi St.,25,16,1,0,W,2,W
+Mississippi St.,25,18,2,0,W,3,W
+Mississippi St.,25,23,0,0,W,1,W
+Mississippi St.,25,20,1,0,W,2,W
+Mississippi St.,25,18,2,0,W,3,W
+South Dakota,25,21,0,0,W,1,W
+South Dakota,25,17,1,0,W,2,W
+South Dakota,25,15,2,0,W,3,W
+Ohio State,17,25,0,0,L,1,L
+Ohio State,20,25,0,1,L,2,L
+Ohio State,21,25,0,2,L,3,L
