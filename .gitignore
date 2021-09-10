@@ -8,3 +8,5 @@ maneater/.ipynb_checkpoints/Agenda Web Scraper-checkpoint.ipynb
 maneater/.ipynb_checkpoints/CPD_Analysis-checkpoint.ipynb
 maneater/Agenda Web Scraper.ipynb
 .DS_Store
+*.ai
+*.svg
